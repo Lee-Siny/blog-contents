@@ -2,7 +2,7 @@
 title: "CPU의 작동 원리"
 meta_title: "CPU의 작동 원리"
 description: "ALU, 제어장치, 레지스터, 명령어 사이클, 인터럽트"
-date: 2023-12-15T11:36:47+09:00
+date: 2023-12-22T11:36:47+09:00
 image: "/images/cs.svg"
 categories: ["Computer-Science"]
 author: "Sinyoung Lee"
