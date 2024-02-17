@@ -21,7 +21,7 @@ draft: false
 
 {{< callout type="info" >}}  
 n비트는 2^n의 정보를 표현할 수 있음  
-
+{{< /callout >}}  
 
 <br>
 
